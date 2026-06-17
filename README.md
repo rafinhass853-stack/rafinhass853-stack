@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Araujo! 👋
 
-<!--
-**rafinhass853-stack/rafinhass853-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programador de Cargas & Desenvolvedor Full-Stack (LogTech)
 
-Here are some ideas to get you started:
+Atuo na área de logística e transporte de cargas, utilizando a programação como ferramenta estratégica para automatizar processos, otimizar rotas e criar ecossistemas eficientes de gestão de frotas e entregas. Sou especializado em desenvolver soluções completas (ponta a ponta) que resolvem dores reais do setor logístico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Minhas Especialidades & Tech Stack
+
+- **Frontend:** React, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend & Banco de Dados:** Node.js, Firebase (Firestore, Authentication, Cloud Functions)
+- **DevOps & Deploy:** Firebase Hosting, Git, GitHub
+- **Foco de Negócio:** Rastreamento em tempo real (GPS), Geofencing, Automação de extração de dados e Dashboards operacionais.
+
+---
+
+### 🚀 Principais Projetos em Destaque
+
+#### 📦 Descargo — Ecossistema Logístico Inteligente
+Um projeto autoral completo desenvolvido para otimizar a operação de transporte de cargas.
+- **Módulo Motorista:** Aplicativo focado em usabilidade com rastreamento por GPS e cercas virtuais (*geofencing*).
+- **Módulo Gestor:** Painel administrativo web para controle de frotas, monitoramento e analytics em tempo real.
+- **Techs:** React, Vite, Firebase Hosting, Firestore, APIs de Geolocalização.
+
+#### 🛵 Entregaqui — Plataforma de Entregas Multimodular
+Plataforma escalável dividida em três frentes integradas para o mercado de delivery local.
+- **Módulo Administrador:** Gestão global e relatórios financeiros.
+- **Módulo Estabelecimento:** Painel de recebimento e despacho de pedidos.
+- **Módulo Cliente:** Interface fluida para compras e acompanhamento.
+- **Techs:** React, Node.js, Firebase.
+
+---
+
+### 📈 Conecte-se Comigo
+
+- **LinkedIn:** https://www.linkedin.com/in/rafael-araujo1992/
+- **E-mail:** rafinhass853@gmail.com
+- **Localização:** Araraquara - SP / São Carlos - SP 📍
