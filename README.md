@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Araujo! 👋
 
-### Programador de Cargas & Desenvolvedor Full-Stack (LogTech)
+### Coordenador de Logística & Desenvolvedor Full-Stack (LogTech)
 
 Atuo na área de logística e transporte de cargas, utilizando a programação como ferramenta estratégica para automatizar processos, otimizar rotas e criar ecossistemas eficientes de gestão de frotas e entregas. Sou especializado em desenvolver soluções completas (ponta a ponta) que resolvem dores reais do setor logístico.
 
