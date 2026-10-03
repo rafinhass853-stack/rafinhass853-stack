@@ -1,180 +1,196 @@
-# 👋 Olá, eu sou o Rafael Araujo!
+# Rafael Araujo
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-React%20%7C%20Node.js%20%7C%20Firebase-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logística_&_Delivery-Rastreamento%20GPS%20%7C%20Geofencing-blue?style=for-the-badge" />
+
+### Desenvolvedor Full-Stack • Tecnologia aplicada à Logística
+
+Construo sistemas web, mobile e plataformas operacionais para transformar problemas reais de logística, transporte e delivery em produtos digitais.
+
+<a href="https://github.com/rafinhass853-stack">
+  <img src="https://img.shields.io/badge/GitHub-rafinhass853--stack-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rafael-araujo1992/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
-<br/>
+---
 
-> **Desenvolvedor Full-Stack** especializado em criar soluções logísticas e de delivery, com foco em rastreamento GPS e painéis administrativos. Transformando desafios operacionais em tecnologia escalável.
+## 👋 Sobre mim
+
+Minha experiência profissional em **logística, transporte e operações** orienta a forma como desenvolvo software: primeiro entendo o problema operacional, depois transformo o processo em uma solução digital.
+
+Tenho interesse especial em:
+
+- 🚚 Gestão de transporte e operações
+- 🛵 Delivery e última milha
+- 📍 Rastreamento GPS e geolocalização
+- 🗺️ Geofencing e monitoramento em mapas
+- 📊 Dashboards e indicadores operacionais
+- 🔥 Firebase e aplicações em tempo real
+- 📱 Aplicações web e mobile
+- 🤖 Automação e uso de IA em processos
+
+> **Tecnologia faz mais sentido quando resolve uma dor real da operação.**
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 🚀 Projetos em destaque
 
-Atuo na área de **logística e transporte de cargas**, utilizando a programação como ferramenta estratégica para automatizar processos, otimizar rotas e criar ecossistemas eficientes de gestão de frotas e entregas.
+### 🛵 VaptVupt
 
-Sempre buscando unir a **eficiência operacional da logística** com o **poder da tecnologia** para desenvolver soluções escaláveis que resolvem dores reais do setor.
+**Plataforma de logística e delivery para conectar lojas, motoboys e operação administrativa.**
 
-### 🎯 Minha Missão
-> "Transformar operações logísticas complexas em sistemas inteligentes, conectando motoristas, gestores e clientes em uma única plataforma integrada."
+Projeto em desenvolvimento com arquitetura preparada para operação regional, incluindo:
+
+- Gestão de lojas e motoboys
+- Despacho e distribuição de entregas
+- Rastreamento de entregas
+- Geolocalização
+- Painel administrativo
+- Controle financeiro e repasses
+- Configuração de tarifas e comissões
+- Aplicação mobile para motoboys
+
+**Stack:** React, TypeScript, Vite, Firebase, Firestore, Cloud Functions, Leaflet e Expo.
+
+👉 [Ver projeto no GitHub](https://github.com/rafinhass853-stack/VaptVupt)
 
 ---
 
-## 🛠️ Tech Stack
+### 📦 Descargo
 
-### 🖥️ Frontend
+**Ecossistema para operações de transporte de cargas**, com foco em monitoramento e controle operacional.
+
+Principais conceitos trabalhados:
+
+- Rastreamento GPS
+- Geofencing
+- Monitoramento de veículos
+- Painéis administrativos
+- Gestão de parceiros
+- Integrações com comunicação operacional
+
+👉 [Ver projeto no GitHub](https://github.com/rafinhass853-stack/descargo)
+
+---
+
+### 🛵 Entregaqui
+
+**Plataforma de entregas multimodular**, pensada para conectar operação, estabelecimentos e entregadores.
+
+Conceitos trabalhados:
+
+- Gestão de pedidos
+- Despacho de entregas
+- Comunicação em tempo real
+- Geolocalização
+- Painéis administrativos
+- Arquitetura modular
+
+👉 [Ver projeto no GitHub](https://github.com/rafinhass853-stack/entrega-aqui)
+
+---
+
+## 🧰 Tecnologias
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend & Banco de Dados
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+### Backend & Cloud
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 🚀 DevOps & Ferramentas
+### Mobile & Mapas
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+### Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💬 Integrações
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+---
+
+## 🧠 Como eu penso software
+
+Minha abordagem combina **experiência operacional + desenvolvimento de software**.
+
+**Problema operacional → Mapeamento do processo → Modelagem da solução → Desenvolvimento → Integração e automação → Monitoramento por indicadores**
+
+O objetivo não é apenas criar uma aplicação bonita, mas construir uma ferramenta que possa ser utilizada no dia a dia por **motoristas, operadores, gestores, lojas e clientes**.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📊 Áreas de conhecimento
 
-### [📦 Descargo](https://github.com/rafinhass853-stack/descargo) — Ecossistema Logístico Inteligente
-
-> Um projeto autoral completo desenvolvido para otimizar a operação de transporte de cargas.
-
-| Módulo | Funcionalidades | Tecnologias |
-|--------|-----------------|-------------|
-| **Motorista** | Rastreamento GPS, Geofencing, Cercas virtuais | React Native, Geolocation API |
-| **Gestor** | Painel administrativo, Monitoramento em tempo real | React, Firebase, Leaflet |
-| **Parceiros** | Gestão de tomadores, carreteiros e pontos de apoio | React, Firestore, Geofencing |
-
-**Destaques:**
-- ✅ Geofencing independente (círculo e polígono)
-- ✅ Integração com WhatsApp para comunicação
-- ✅ Dashboard com estatísticas em tempo real
+| Área | Experiência / foco |
+|---|---|
+| 🚚 Logística | Transporte, cargas, operações e indicadores |
+| 🛵 Delivery | Despacho, última milha e gestão de entregas |
+| 📍 Geolocalização | GPS, mapas, rastreamento e geofencing |
+| 💻 Desenvolvimento | React, TypeScript, Node.js e Firebase |
+| 📱 Mobile | React Native e Expo |
+| ☁️ Cloud | Firebase, Firestore e Cloud Functions |
+| 📊 Dados | Dashboards, KPIs e informações operacionais |
+| 🔗 Integrações | APIs, WhatsApp, mapas e serviços externos |
 
 ---
 
-### [🛵 Entregaqui](https://github.com/rafinhass853-stack/entrega-aqui) — Plataforma de Entregas Multimodular
-
-> Plataforma escalável dividida em três frentes integradas para o mercado de delivery local.
-
-| Módulo | Funcionalidades | Tecnologias |
-|--------|-----------------|-------------|
-| **Administrador** | Gestão global, Relatórios financeiros | React, Node.js, Firebase |
-| **Estabelecimento** | Painel de pedidos, Despacho | React, WebSocket |
-| **Cliente** | Compras, Acompanhamento em tempo real | React Native, Geolocation |
-
-**Destaques:**
-- ✅ Arquitetura modular e escalável
-- ✅ Comunicação em tempo real
-- ✅ Experiência de usuário fluida
-
----
-
-### [📊 Parceiros Comerciais - Geofencing](https://github.com/rafinhass853-stack/tgweb)
-
-> Sistema de gestão de parceiros com geofencing avançado para logística.
-
-**Funcionalidades:**
-- ✅ Cadastro de parceiros com classificação (Tomador, Carreteiro, Cliente, etc.)
-- ✅ Geofencing independente da localização do parceiro
-- ✅ Desenho de círculos e polígonos no mapa
-- ✅ Salvamento de cercas geográficas no Firebase
-- ✅ Integração com WhatsApp para contato rápido
-
----
-
-## 📊 Estatísticas do GitHub
+## 📈 GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhass853-stack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhass853-stack&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafinhass853-stack&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhass853-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhass853-stack&layout=compact&langs_count=8&theme=tokyonight" />
+
 </div>
 
 ---
 
-## 🏆 Habilidades em Destaque
+## 🎯 Atualmente
 
-| Área | Competências |
-|------|--------------|
-| **Logística** | Rastreamento GPS, Geofencing, Otimização de rotas |
-| **Desenvolvimento** | React, Node.js, Firebase, TypeScript |
-| **Arquitetura** | Sistemas escaláveis, Microservices, API REST |
-| **Metodologias** | Agile, Scrum, Kanban |
-| **Integrações** | WhatsApp API, Google Maps, Geocoding |
+Estou evoluindo projetos próprios voltados principalmente para:
+
+- Sistemas de logística e transporte
+- Plataformas de delivery
+- Rastreamento e geolocalização
+- Aplicações web e mobile
+- Automação de processos operacionais
+- Inteligência artificial aplicada à logística
 
 ---
 
-## 📈 Conecte-se Comigo
+## 🤝 Vamos conversar?
+
+Tenho interesse em **projetos de tecnologia, logística, transporte, desenvolvimento de sistemas e soluções digitais para operações reais**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafael-araujo1992/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rafinhass853@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rafinhass853-stack" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5516999999999" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
 
-<br/>
+<a href="mailto:rafinhass853@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rafael-araujo1992/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rafinhass853-stack">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-📍 **Localização:** Araraquara - SP / São Carlos - SP
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=rafinhass853-stack&style=flat-square&color=blue" />
 
-## 💡 O que Estou Aprendendo Atualmente
-
-- 📚 React Native para aplicações mobile
-- 🐍 Python para análise de dados logísticos
-- ☁️ Cloud Computing (AWS, Google Cloud)
-- 🤖 Inteligência Artificial para otimização de rotas
-
----
-
-## 📝 Últimos Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Descargo](https://github.com/rafinhass853-stack/descargo) | Ecossistema logístico com geofencing | React, Node.js, Firebase |
-| [Entregaqui](https://github.com/rafinhass853-stack/entrega-aqui) | Plataforma de entregas multimodular | React, Node.js, Firebase |
-| [Parceiros Comerciais](https://github.com/rafinhass853-stack/tgweb) | Geofencing para gestão de parceiros | React, Leaflet, Firebase |
-
----
-
-## 🤝 Vamos Colaborar?
-
-Estou sempre aberto a novas oportunidades, colaborações em projetos open-source e parcerias para desenvolver soluções inovadoras no setor de logística e transporte.
-
-**Entre em contato:** rafinhass853@gmail.com
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafinhass853-stack&color=blue&style=flat-square" />
-  <br/>
-  ⭐ **Se você gostou do meu trabalho, considere me seguir!** ⭐
 </div>
