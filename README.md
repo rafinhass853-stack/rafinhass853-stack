@@ -156,7 +156,7 @@ Se você trabalha com **logística, transporte, tecnologia, LogTech, operações
 
 - **LinkedIn:** https://www.linkedin.com/in/rafael-araujo1992/
 - **GitHub:** https://github.com/rafinhass853-stack
-- **Email:** rafael.araujo@outlook.com
+- **Email:** rafinhass853@gmail.com
 
 ---
 
